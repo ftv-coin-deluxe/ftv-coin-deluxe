@@ -1,0 +1,7 @@
+build/
+npm-debug.log
+node_modules/
+.myganache/
+/.idea/
+/coverage/
+/coverage.json
